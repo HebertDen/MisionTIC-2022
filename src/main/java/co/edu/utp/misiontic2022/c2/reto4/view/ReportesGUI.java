@@ -32,7 +32,7 @@ public class ReportesGUI extends JFrame {
     }
 
     private void initComponets() {
-        setTitle("Demo del reto 4 y 5");
+        setTitle("Reto 5");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
 
         var panel = new JPanel();
